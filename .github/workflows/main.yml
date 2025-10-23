@@ -6,7 +6,7 @@ on:
     branches: [ "main" ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-job:
+jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
